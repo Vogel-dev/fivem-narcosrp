@@ -1,0 +1,33 @@
+@import url('res/futurastd-medium.css');
+
+html {
+	color: #fff;
+}
+
+#wrap {
+	font-family: 'Titillium Web';  
+	font-size: 15px;
+	width: 280px;
+	position: absolute;
+	right: 0px;
+	top: 50px;
+	box-shadow: 0px 0px 50px 0px #000;
+}
+
+table {
+	width:100%;
+	text-align: left;
+	border-collapse: separate;
+	border-spacing: 1px;
+}
+
+td {
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top:4px;
+	padding-bottom:2px;
+	background: rgba(22,22,22,0.8);
+	color: rgb(255, 255, 255);
+	border-radius:7px;
+	height: 16px;
+}

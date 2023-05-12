@@ -1,0 +1,2179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- LC VEHICLE PACK, VERSION 1.0 -->
+<!-- DO NOT DISTRIBUTE WITHOUT THE PERMISSION OF THE CREATORS! -->
+<CVehicleModelInfoVariation>
+   <variationData>
+	<Item>
+         <modelName>lcpdscout</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="0" />
+                  <Item value="112" />
+                  <Item value="0" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="72" />
+         <sirenSettings value="22" />
+      </Item>  
+      <Item>
+         <modelName>lcpdesp</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  134
+                  134
+                  0
+                  0
+               </indices>
+               <liveries/>
+            </Item>
+         </colors>
+         <kits/>
+         <windowsWithExposedEdges/>
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="100"/>
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="39"/>
+         <sirenSettings value="28"/>
+      </Item>
+      <Item>
+         <modelName>newsvan</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="111" />
+                  <Item value="156" />
+               </indices>
+               <liveries/>
+            </Item>
+         </colors>
+         <kits>
+            <Item>hash_collision_4858907057</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="60" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="0" />
+      </Item>
+      <Item>
+         <modelName>lcpdchamp</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="0" />
+                  <Item value="112" />
+                  <Item value="127" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="21" />
+      </Item>
+      <Item>
+         <modelName>lcpdyo</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="0" />
+                  <Item value="112" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="23" />
+         <sirenSettings value="22" />
+      </Item>
+      <Item>
+         <modelName>lcpdb</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="1" />
+                  <Item value="134" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits />
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="100" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="12" />
+         <sirenSettings value="27" />
+      </Item>
+      <Item>
+         <modelName>fdlcsteed</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="111" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="111" />
+                  <Item value="134" />
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="111" />
+                  <Item value="44" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="24" />
+      </Item>
+      <Item>
+         <modelName>LCPDSPEE</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="0" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="4" />
+      </Item>
+      <Item>
+         <modelName>Packer</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  <Item value="0" />
+                  <Item value="112" />
+                  <Item value="2" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  <Item value="45" />
+                  <Item value="40" />
+                  <Item value="35" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  <Item value="73" />
+                  <Item value="70" />
+                  <Item value="63" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  <Item value="5" />
+                  <Item value="0" />
+                  <Item value="111" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  <Item value="6" />
+                  <Item value="0" />
+                  <Item value="111" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  <Item value="10" />
+                  <Item value="0" />
+                  <Item value="5" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits />
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="14" />
+         <sirenSettings value="0" />
+      </Item>
+      <Item>
+         <modelName>lcyankee</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="9" />
+                  <Item value="0" />
+                  <Item value="111" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  <Item value="43" />
+                  <Item value="43" />
+                  <Item value="0" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  <Item value="3" />
+                  <Item value="0" />
+                  <Item value="2" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  <Item value="5" />
+                  <Item value="0" />
+                  <Item value="111" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  <Item value="24" />
+                  <Item value="0" />
+                  <Item value="111" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits />
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="100" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="14" />
+         <sirenSettings value="0" />
+      </Item>
+      <Item>
+         <modelName>lctaxiold</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">134 134 0 156 0 0</indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_no_lower</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="100" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="0" />
+      </Item>
+      <Item>
+         <modelName>lcpdold</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">134 134 0 156 0 0</indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_no_lower</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="100" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="22" />
+      </Item>
+      <Item>
+         <modelName>lcpdprem</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">134 134 1 156</indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_no_lower</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="100" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="22" />
+      </Item>
+      <Item>
+         <modelName>lctaxibr</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">134 134 1 156</indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_no_lower</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="100" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="0" />
+      </Item>
+      <Item>
+         <modelName>lctaxiprem</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">134 134 1 156</indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_no_lower</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="100" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="0" />
+      </Item>
+      <Item>
+         <modelName>lcpdvalk</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">134 134 134 156</indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits />
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="18" />
+         <sirenSettings value="0" />
+      </Item>
+      <Item>
+         <modelName>lcpa</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="0" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="22" />
+      </Item>
+      <Item>
+         <modelName>lcpagresley</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="0" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="1" />
+         <sirenSettings value="16" />
+      </Item>
+      <Item>
+         <modelName>fdlcgranger</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="0" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="23" />
+         <sirenSettings value="24" />
+      </Item>
+      <Item>
+         <modelName>lcbus</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="134 " />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="159" />
+         <sirenSettings value="0" />
+      </Item>
+      <Item>
+         <modelName>lta</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="0" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  <Item value="5" />
+                  <Item value="5" />
+                  <Item value="0" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="19" />
+      </Item>
+      <Item>
+         <modelName>nstockade</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="111" />
+                  <Item value="0" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="76" />
+      </Item>
+      <Item>
+         <modelName>ltastockade</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="111" />
+                  <Item value="0" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="0" />
+      </Item>
+      <Item>
+         <modelName>lctaxi2</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="0" />
+                  <Item value="0" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="151" />
+         <sirenSettings value="0" />
+      </Item>
+      <Item>
+         <modelName>lctaxi3</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="112" />
+                  <Item value="112" />
+                  <Item value="5" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="0" />
+      </Item>
+      <Item>
+         <modelName>lctaxi</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="112" />
+                  <Item value="112" />
+                  <Item value="5" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="0" />
+      </Item>
+      <Item>
+         <modelName>lctaxi4</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="5" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="0" />
+      </Item>
+      <Item>
+         <modelName>LCPDSAND</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="0" />
+                  <Item value="0" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="44" />
+         <sirenSettings value="17" />
+      </Item>
+      <Item>
+         <modelName>LCPDALAMO</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="0" />
+                  <Item value="0" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="23" />
+         <sirenSettings value="16" />
+      </Item>
+      <Item>
+         <modelName>LCPAALAMO</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="12" />
+                  <Item value="12" />
+                  <Item value="0" />
+                  <Item value="0" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Alderney Plate</Name>
+                  <Value value="100" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="23" />
+         <sirenSettings value="1" />
+      </Item>
+      <Item>
+         <modelName>UTAXI</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="88" />
+                  <Item value="111" />
+                  <Item value="0" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="23" />
+      </Item>
+      <Item>
+         <modelName>LCPD5</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="111" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="22" />
+      </Item>
+      <Item>
+         <modelName>LCPD4</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="0" />
+                  <Item value="0" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="1" />
+         <sirenSettings value="22" />
+      </Item>
+      <Item>
+         <modelName>LCPD3</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="0" />
+                  <Item value="0" />
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="0" />
+                  <Item value="5" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="72" />
+         <sirenSettings value="22" />
+      </Item>
+      <Item>
+         <modelName>LCPD2</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="0" />
+                  <Item value="0" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="151" />
+         <sirenSettings value="22" />
+      </Item>
+      <Item>
+         <modelName>LCPD</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="0" />
+                  <Item value="0" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="1" />
+         <sirenSettings value="22" />
+      </Item>
+      <Item>
+         <modelName>LCPDRUMPO</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="0" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>350_emsvan_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="1" />
+         <sirenSettings value="443" />
+      </Item>
+      <Item>
+         <modelName>LTARUMPO</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>350_emsvan_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="1" />
+         <sirenSettings value="442" />
+      </Item>
+      <Item>
+         <modelName>FDLCAMB2</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="112" />
+                  <Item value="28" />
+                  <Item value="112" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="4" />
+      </Item>
+      <Item>
+         <modelName>FDLCSADLER</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="112" />
+                  <Item value="28" />
+                  <Item value="112" />
+                  <Item value="44" />
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  <Item value="112" />
+                  <Item value="28" />
+                  <Item value="112" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="4" />
+      </Item>
+      <Item>
+         <modelName>FDLC2</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="111" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="26" />
+      </Item>
+      <Item>
+         <modelName>FDLC</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="0" />
+                  <Item value="0" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="151" />
+         <sirenSettings value="22" />
+      </Item>
+      <Item>
+         <modelName>FDLCSAND2</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="0" />
+                  <Item value="44" />
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="0" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="44" />
+         <sirenSettings value="17" />
+      </Item>
+      <Item>
+         <modelName>FDLCSAND</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="112" />
+                  <Item value="28" />
+                  <Item value="112" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="4" />
+      </Item>
+      <Item>
+         <modelName>LCAMB</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="112" />
+                  <Item value="28" />
+                  <Item value="112" />
+                  <Item value="134" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="449" />
+      </Item>
+      <Item>
+         <modelName>fdlcamb3</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="112" />
+                  <Item value="28" />
+                  <Item value="112" />
+                  <Item value="156" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="22" />
+         <sirenSettings value="17" />
+      </Item>
+      <Item>
+         <modelName>fdlcresc</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="28" />
+                  <Item value="134" />
+                  <Item value="44" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits />
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="22" />
+         <sirenSettings value="18" />
+      </Item>
+      <Item>
+         <modelName>fdlctruck</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="28" />
+                  <Item value="134" />
+                  <Item value="44" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits />
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="22" />
+         <sirenSettings value="18" />
+      </Item>
+      <Item>
+         <modelName>lcboxville</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="28" />
+                  <Item value="134" />
+                  <Item value="0" />
+               </indices>
+               <liveries>
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="true" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="true" />
+               </liveries>
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="28" />
+                  <Item value="134" />
+                  <Item value="134" />
+               </indices>
+               <liveries>
+                  <Item value="true" />
+                  <Item value="true" />
+                  <Item value="true" />
+                  <Item value="false" />
+                  <Item value="true" />
+                  <Item value="true" />
+                  <Item value="true" />
+                  <Item value="false" />
+                  <Item value="false" />
+               </liveries>
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="28" />
+                  <Item value="134" />
+                  <Item value="76" />
+               </indices>
+               <liveries>
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="true" />
+                  <Item value="false" />
+               </liveries>
+            </Item>
+         </colors>
+         <kits />
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="0" />
+      </Item>
+      <Item>
+         <modelName>lcpduranus</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="127" />
+                  <Item value="134" />
+                  <Item value="156" />
+               </indices>
+            </Item>
+         </colors>
+         <kits />
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="20" />
+      </Item>
+      <Item>
+         <modelName>lcpdranch</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="73" />
+               </indices>
+            </Item>
+         </colors>
+         <kits />
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="20" />
+      </Item>
+      <Item>
+         <modelName>lcpdmerit</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="73" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits />
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="20" />
+      </Item>
+      <Item>
+         <modelName>lcpdboxville</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="28" />
+                  <Item value="134" />
+                  <Item value="134" />
+               </indices>
+            </Item>
+         </colors>
+         <kits />
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="21" />
+      </Item>
+      <Item>
+         <modelName>nboxville</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="134" />
+               </indices>
+            </Item>
+         </colors>
+         <kits />
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="21" />
+      </Item>
+      <Item>
+         <modelName>lcpdbox2</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="28" />
+                  <Item value="134" />
+                  <Item value="134" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits />
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="25" />
+      </Item>
+      <Item>
+         <modelName>fdlcbox</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="0" />
+                  <Item value="44" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits />
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="21" />
+      </Item>
+      <Item>
+         <modelName>fdlcamb</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="0" />
+                  <Item value="134" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits />
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="1" />
+         <sirenSettings value="4" />
+      </Item>
+      <Item>
+         <modelName>lcpdamb</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="12" />
+                  <Item value="12" />
+                  <Item value="0" />
+                  <Item value="0" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits />
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>Police guv plate</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="1" />
+         <sirenSettings value="4" />
+      </Item>
+      <Item>
+         <modelName>fdlcrumpo</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  <Item value="134" />
+                  <Item value="134" />
+                  <Item value="0" />
+                  <Item value="44" />
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits>
+            <Item>350_emsvan_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="40" />
+               </Item>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="30" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="1" />
+         <sirenSettings value="4" />
+      </Item>
+   </variationData>
+</CVehicleModelInfoVariation>
